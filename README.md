@@ -1,4 +1,4 @@
-# Blockchain Address
+# Crypto Account Address
 
 ## BTC
 
